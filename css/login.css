@@ -1,0 +1,22 @@
+.form-control{
+  width: 100%;
+  height: 135px;
+  height: 135px;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+ 
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+  
+}
+#lab{
+  font-size: 20px;
+  margin: 5px;
+}
+
+.user-details .row  input:focus,
+.user-details .row  input:valid{
+border-color: #9b59b6;
+}
